@@ -83,3 +83,7 @@ sudo apt-get autoremove codeblocks
 ```
 
 接下来就大功告成了，为了避免一些小bug，比如单击任务栏图标不能启动codeblocks等，最好重启一下系统。
+
+### 参考
+[http://blog.csdn.net/qianghaohao/article/details/51924618](http://blog.csdn.net/qianghaohao/article/details/51924618)
+
